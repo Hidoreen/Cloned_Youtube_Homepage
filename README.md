@@ -12,4 +12,4 @@ Css
 
 # Description
 
-The home page displays a top bar with a search area, a side bar on the left with icons leding to other pages and a display of video thumbnails.
+The Youtube clone home page displays a top bar with a search area, a side bar on the left with icons  and a display of video thumbnails-preview.
