@@ -7,7 +7,7 @@ Front-end development of the youtube home page
 HTML5
 Css
 
-##Show Preview Here
+ # Show Preview Here
 [http://127.0.0.1:5500/index.html](http://127.0.0.1:3000/index.html)
 
 # Description
